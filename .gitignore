@@ -1,0 +1,27 @@
+# Environment
+__pycache__/
+*.py[cod]
+*.env
+.env
+
+# Conda
+*.conda
+envs/
+
+# Data 
+data/raw/
+data/index/
+
+# Processed data only pushed intentionally
+data/processed/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
